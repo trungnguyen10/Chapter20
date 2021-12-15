@@ -1,0 +1,12 @@
+E:\OneDrive\Languages\CSharp\TheCSharp PlayersGuide\Chapter20\TicTacToeLib\bin\Debug\net6.0\TicTacToeLib.deps.json
+E:\OneDrive\Languages\CSharp\TheCSharp PlayersGuide\Chapter20\TicTacToeLib\bin\Debug\net6.0\TicTacToeLib.dll
+E:\OneDrive\Languages\CSharp\TheCSharp PlayersGuide\Chapter20\TicTacToeLib\bin\Debug\net6.0\ref\TicTacToeLib.dll
+E:\OneDrive\Languages\CSharp\TheCSharp PlayersGuide\Chapter20\TicTacToeLib\bin\Debug\net6.0\TicTacToeLib.pdb
+E:\OneDrive\Languages\CSharp\TheCSharp PlayersGuide\Chapter20\TicTacToeLib\obj\Debug\net6.0\TicTacToeLib.csproj.AssemblyReference.cache
+E:\OneDrive\Languages\CSharp\TheCSharp PlayersGuide\Chapter20\TicTacToeLib\obj\Debug\net6.0\TicTacToeLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive\Languages\CSharp\TheCSharp PlayersGuide\Chapter20\TicTacToeLib\obj\Debug\net6.0\TicTacToeLib.AssemblyInfoInputs.cache
+E:\OneDrive\Languages\CSharp\TheCSharp PlayersGuide\Chapter20\TicTacToeLib\obj\Debug\net6.0\TicTacToeLib.AssemblyInfo.cs
+E:\OneDrive\Languages\CSharp\TheCSharp PlayersGuide\Chapter20\TicTacToeLib\obj\Debug\net6.0\TicTacToeLib.csproj.CoreCompileInputs.cache
+E:\OneDrive\Languages\CSharp\TheCSharp PlayersGuide\Chapter20\TicTacToeLib\obj\Debug\net6.0\TicTacToeLib.dll
+E:\OneDrive\Languages\CSharp\TheCSharp PlayersGuide\Chapter20\TicTacToeLib\obj\Debug\net6.0\ref\TicTacToeLib.dll
+E:\OneDrive\Languages\CSharp\TheCSharp PlayersGuide\Chapter20\TicTacToeLib\obj\Debug\net6.0\TicTacToeLib.pdb
